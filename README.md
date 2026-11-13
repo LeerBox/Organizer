@@ -9,7 +9,7 @@
 Organizer sorts the loose files in your Downloads folder into clean folders by type.<br>
 You see where every file will go before anything moves — and every run can be undone.
 
-<a href="https://github.com/LeerBox/Organizer/releases/latest"><img src="https://img.shields.io/badge/Download%20for%20Windows-16A085?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="44"></a>
+<a href="https://github.com/LeerBox/Organizer/releases"><img src="https://img.shields.io/badge/Download%20for%20Windows-16A085?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="44"></a>
 
 [![Release](https://img.shields.io/github/v/release/LeerBox/Organizer?include_prereleases&style=flat-square&label=release)](https://github.com/LeerBox/Organizer/releases)
 [![License: MIT](https://img.shields.io/github/license/LeerBox/Organizer?style=flat-square)](LICENSE)
@@ -37,7 +37,7 @@ You see where every file will go before anything moves — and every run can be 
 
 ## Get started in a minute
 
-1. **[Download Organizer-Portable.zip](https://github.com/LeerBox/Organizer/releases/latest)** from the latest release.
+1. **[Download Organizer-Portable.zip](https://github.com/LeerBox/Organizer/releases)** from the latest release.
 2. **Extract** the whole archive to a folder you control.
 3. **Double-click `Organizer.cmd`.** It scans your Downloads folder and shows the plan — nothing has moved yet.
 4. **Review** the list, then click **Organize**.
