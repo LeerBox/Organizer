@@ -1,0 +1,6 @@
+/dist/
+/Tests/_work-*/
+/Tests/_preview/
+*.log
+*.tmp
+settings.json
